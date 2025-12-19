@@ -55,3 +55,19 @@ loan.csv
 import pandas as pd
 
 df = pd.read_csv("data/loan.csv")
+
+
+📌 This tells **anyone** (recruiter, professor, interviewer) exactly what to do.
+
+---
+
+## ✅ STEP 3 — Add PROJECT STRUCTURE (ORGANIZATION)
+
+This makes your repo look **professional**.
+
+Add this section to the **bottom** of README:
+
+```md
+## Project Structure
+
+
