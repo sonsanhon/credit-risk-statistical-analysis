@@ -29,3 +29,29 @@ The objective is to analyze distributions, categorical vs quantitative relations
 
 ## Author
 Aristophane Bah
+
+Dataset not included due to GitHub size limits.
+
+You can download the dataset here:
+https://www.kaggle.com/datasets/jorge-salas/credit-risk-dataset
+
+After downloading, extract the file and use:
+loan.csv
+
+## How to Load the Data
+
+1. Download the dataset from Kaggle:
+   https://www.kaggle.com/datasets/jorge-salas/credit-risk-dataset
+
+2. Extract `loan.csv`
+
+3. Create a local folder called `data/`
+
+4. Place `loan.csv` inside the `data/` folder
+
+5. In the notebook, load the data using:
+
+```python
+import pandas as pd
+
+df = pd.read_csv("data/loan.csv")
