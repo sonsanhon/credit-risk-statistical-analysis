@@ -11,7 +11,7 @@ and validate statistical assumptions used in risk modeling.
 - Dataset is not included in this repository due to GitHub size limits
 
 📌 Dataset link:
-https://www.kaggle.com/datasets/jorgealvaredo/lending-club-loan-data
+[https://www.kaggle.com/datasets/jorgealvaredo/lending-club-loan-data](https://www.kaggle.com/datasets/jorgesalasf/credit-risk-dataset/data)
 
 ## Analysis Performed
 - Descriptive statistics
