@@ -26,6 +26,18 @@ The objective is to analyze distributions, categorical vs quantitative relations
 - pandas, numpy
 - matplotlib, seaborn
 - scipy, statsmodels
+- 
+## Tools & Libraries
+- Python
+- pandas, numpy
+- matplotlib, seaborn
+- scipy, statsmodels
+
+## How to Run
+1. Download the dataset from Kaggle
+2. Place `loan.csv` locally (path explained in notebook)
+3. Open `notebooks/credit_risk_analysis.ipynb`
+4. Run all cells
 
 ## Author
 Aristophane Bah
