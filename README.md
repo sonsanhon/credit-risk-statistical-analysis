@@ -29,9 +29,9 @@ and validate statistical assumptions used in risk modeling.
 ## Project Structure
 credit-risk-statistical-analysis/
 │
-├── README.md/
+├── README.md
 └── notebooks/
-└── credit_risk_analysis.ipynb
+    └── credit_risk_analysis.ipynb
 
 
 ## Tools & Libraries
